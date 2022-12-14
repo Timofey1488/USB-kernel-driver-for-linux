@@ -1,0 +1,1 @@
+cmd_/home/tim/usb_driver/driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/tim/usb_driver/driver/modules.order | scripts/mod/modpost -m -a  -o /home/tim/usb_driver/driver/Module.symvers -e -i Module.symvers   -T -
