@@ -1,5 +1,6 @@
 # USB-kernel-driver-for-linux
 This is my education project for course work
+The main programming language is "C"
 
 # Steps for start project
 
