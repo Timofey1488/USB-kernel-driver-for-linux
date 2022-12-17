@@ -1,0 +1,6 @@
+*.cmd linguist-documentation
+
+*.symvers linguist-documentation
+*.order linguist-documentation
+*.ko
+*.mod
